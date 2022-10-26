@@ -1,0 +1,8 @@
+{
+  "name": "app_react_native",
+  "displayName": "app_react_native",
+  "splash": {
+    "image": "./assets/img/splash.png"
+  }
+
+}
